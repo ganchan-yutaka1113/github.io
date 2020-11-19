@@ -1,3 +1,4 @@
+/*---------------共通----------------------*/
 body {
     color: #082B48;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -76,7 +77,7 @@ header {
 topクラス
 ================================*/
 .top {
-    background-image: url(../img/main-vsual-nontitle.png);
+    background-image: url(main-vsual-nontitle.png);
     background-size: cover;
     padding: 80px 0;
 }
